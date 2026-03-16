@@ -6,15 +6,20 @@ This Privacy Policy describes how COA Planner (“we”, “us”, or “our”)
 
 **Summary**
 
-• COA Planner does not collect or transmit personal data to our servers.
+• COA Planner does not collect or transmit personal data to servers.
+
 • All inputs (e.g., assault track, wind data, coordinates, dates) are processed on-device.
+
 • The app does not use analytics, advertising, or third-party tracking SDKs.
+
 • No account or login is required.
 
 **Information We Collect**
 
 • User-entered values: assault track, boat reference course, boat speed, wind direction/speed, date/time, latitude/longitude, and display preferences (e.g., show sun and moon).
+
 • Derived values: apparent wind, astronomical positions (sun/moon), and visualizations.
+
 • These values are used solely to compute and display planning information within the app.
 
 **We do not:**
