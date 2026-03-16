@@ -1,4 +1,4 @@
-Contact Us
+##Contact Us
 
 For further assistance, feature requests, or bug reports, please contact us:
 
