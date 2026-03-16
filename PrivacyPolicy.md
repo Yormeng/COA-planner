@@ -20,24 +20,31 @@ This Privacy Policy describes how COA Planner (“we”, “us”, or “our”)
 **We do not:**
 
 • Collect personally identifiable information (PII).
+
 • Store data on external servers.
+
 • Share data with third parties.
 
 **Data Storage and Processing**
 
 • All data is stored and processed locally on your device.
+
 • If the app persists settings (e.g., last-used values), they are saved using system-provided storage on your device (such as UserDefaults or app sandbox). These values remain under your control and are removed when you uninstall the app.
+
 • Astronomy calculations, wind calculations, and visualizations are computed on-device.
 
 **Permissions**
 
 • Keyboard input: Used to enter values. We do not log or transmit your keystrokes.
+
 • Network: The app does not require network access for its core functionality. If future features require connectivity, we will update this policy and request any necessary permissions.
+
 • Location: The app does not request system location permissions. Latitude/longitude are entered manually by the user.
 
 **Third-Party Services**
 
 • The app does not integrate third-party analytics, advertising SDKs, or data brokers.
+
 • The app uses Apple’s system frameworks (e.g., SwiftUI, Foundation) for UI and on-device computation.
 
 **Children’s Privacy**
@@ -47,20 +54,21 @@ This Privacy Policy describes how COA Planner (“we”, “us”, or “our”)
 **Your Choices and Controls**
 
 • You can delete the app to remove all locally stored data.
+
 • You can clear or modify any values within the app at any time.
+
 • If we introduce optional cloud features in the future, we will request your consent and update this policy.
 
 **Security**
 
 • Because your data remains on your device, it benefits from the platform’s built-in security features.
+
 • We recommend keeping your device updated and protected with a passcode or biometric lock.
 
-**Changes to This Policy**
+**Changes to this policy**
 
-We may update this Privacy Policy to reflect new features, legal requirements, or improvements. If we make material changes, we will update the “Effective date” and, when appropriate, provide in-app notice.
+We may update this Privacy Policy from time to time. Material changes will be reflected by updating the “Effective date” above.
 
-**Contact Us**
+**Contact**
 
-If you have questions or concerns about this Privacy Policy, please contact:
-• Email: yormen@icloud.com
-• Contact form: 
+If you have questions about this Privacy Policy, please contact the developer via the App Store listing’s support link or the developer contact provided there.
